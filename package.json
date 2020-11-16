@@ -1,0 +1,27 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "<!-- 初始化 -->\r mkdir webpack-demo\r cd webpack-demo\r npm init -y\r npm install webpack webpack-cli --save-dev",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Long9138/webpack-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Long9138/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/Long9138/webpack-demo#readme",
+  "devDependencies": {
+    "lodash": "^4.17.20",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {}
+}
