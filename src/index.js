@@ -15,6 +15,7 @@ function component() {
   element.appendChild(btn);
 
   return element;
+
 }
 
 document.body.appendChild(component());
